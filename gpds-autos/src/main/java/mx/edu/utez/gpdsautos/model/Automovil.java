@@ -17,6 +17,7 @@ public class Automovil {
     private String color;
 
     // Getters y Setters
+    //comentario que refleja cambios
     public Long getId() {
         return id;
     }
